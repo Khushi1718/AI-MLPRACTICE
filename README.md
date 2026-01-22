@@ -1,2 +1,2 @@
-# MLPRACTICE
-This repo contains code of me learning ML
+# AI-MLPRACTICE
+This repo contains code of me learning AI-ML
