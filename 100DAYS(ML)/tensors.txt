@@ -1,0 +1,12 @@
+# tensors = multideimensional arrays 
+[1,2,3,4] = 1D tensor and 4 dimenions vector
+in ML we use 0-5D tensors
+
+number of axis = rank = number of dim 
+shape = in one dimension how many element i can store 
+[[1,2,3]
+[4,5,6]] rank = 2 shape = 2*3 so 6 items
+
+
+
+
